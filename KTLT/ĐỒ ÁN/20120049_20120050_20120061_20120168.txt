@@ -1,0 +1,5 @@
+Link đồ án: 	https://github.com/dangcpr/crossroad1/
+Link video demo: 	https://youtu.be/C225l5_6WHI
+Cách sử dụng: 	Mở file cross-the-road-1.sln rồi nhấn tổ hợp phím Ctrl+F5
+Cách tiếp tục chơi game đã lưu từ 1 file .txt: 
+Truy cập thư mục cross-the-road-1 rồi tìm file FileDaLuu.txt, ứng dụng với mỗi dòng là mỗi tên file đã lưu. Trong game, khi muốn load lại game đã lưu vui lòng nhập tên file đã lưu (không thêm đuôi .txt).

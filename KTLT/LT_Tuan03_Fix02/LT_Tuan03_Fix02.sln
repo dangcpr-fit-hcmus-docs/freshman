@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LT_Tuan03_Fix02", "LT_Tuan03_Fix02\LT_Tuan03_Fix02.vcxproj", "{9F304769-045B-4E0B-B389-879E463FCEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Debug|x64.ActiveCfg = Debug|x64
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Debug|x64.Build.0 = Debug|x64
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Debug|x86.Build.0 = Debug|Win32
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Release|x64.ActiveCfg = Release|x64
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Release|x64.Build.0 = Release|x64
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Release|x86.ActiveCfg = Release|Win32
+		{9F304769-045B-4E0B-B389-879E463FCEC8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4761FB12-4519-49B1-BFE4-7D6388F0A595}
+	EndGlobalSection
+EndGlobal

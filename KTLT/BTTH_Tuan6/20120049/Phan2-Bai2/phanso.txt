@@ -1,0 +1,20 @@
+5
+3 4
+1 2
+2 3
+5 8
+9 14
+------ Danh sach Phan so da sap xep ------
+5
+12
+58
+914
+23
+34
+------ Danh sach Phan so da sap xep ------
+5
+12
+58
+914
+23
+34

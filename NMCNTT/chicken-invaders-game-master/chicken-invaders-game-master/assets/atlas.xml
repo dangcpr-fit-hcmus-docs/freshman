@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0434bc91bbc009af41c6557b22aafe87$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="chickenOne" x="2" y="2" width="50" height="80"/>
+    <SubTexture name="chicken_red" x="54" y="2" width="50" height="78"/>
+    <SubTexture name="explosion" x="106" y="2" width="64" height="64"/>
+    <SubTexture name="fireOne" x="172" y="2" width="12" height="33"/>
+    <SubTexture name="logoOne" x="2" y="84" width="480" height="133"/>
+    <SubTexture name="smoke" x="2" y="219" width="64" height="64"/>
+    <SubTexture name="spaceship" x="68" y="219" width="82" height="69"/>
+    <SubTexture name="startGameButton" x="152" y="219" width="200" height="70"/>
+    <SubTexture name="tryAgainButton" x="2" y="291" width="200" height="70"/>
+</TextureAtlas>
